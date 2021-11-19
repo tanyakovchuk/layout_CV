@@ -3,6 +3,4 @@
 
 ## Technologies used
 - Markup & style: HTML, CSS (Grid/Flexbox)
-- Methodology & preprocessing: BEM, SCSS
 - Web-page uses JS
-- Adaptive design
